@@ -1,13 +1,22 @@
-​How to to access the prototype.
-Through the itch.io website, where the game is published:
+​Project Name: Kiki's Routine
+Final prototype of Kiki's Routine, a short interactive puzzle game with horror themes and a storyline, made on ren'py.
+
+Installation Instructions:
+
+Please download the zip file for the prototype through the itch.io website, where the game is published.
 Link:
 https://chersinventory.itch.io/kikis-routine
 
-Instructions:
-download the zip file to your device (ideally, this should work on mac, window, pc, android). 
+1. download the zip file to your computer, then click "Extract all"
+the file is a compressed zipped version; the zip file includes the gui, options, screens, and script.
+therefore, it needs to be extracted entirely.
 
-then click "Extract all" to reach the playable game. the file is a compressed zipped version; therefore, it needs to be extracted entirely.
+2. choose a destination file for the extractions, or create one exclusively.
 
-once the file opens up, click "Kikisroutine" the application Type file. there should be only one application file with the Ren'py logo.
+3. Once the file opens up, click "Kikisroutine", the 'Application' Type file.
+there should be only one application file with the Ren'py logo.
+it should be located under 'log' after the extraction files reveals.
 
-this should directly take you to the game screen and Start on your left handle.
+4. This will take you directly to the game start screen.
+click "start" on the left side to begin the game.
+
