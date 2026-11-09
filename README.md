@@ -1,7 +1,7 @@
-​Project Name: Kiki's Routine
+## ​Project Name: Kiki's Routine
 Final prototype of Kiki's Routine, a short interactive puzzle game with horror themes and a storyline, made on ren'py.
 
-Installation Instructions:
+# Installation Instructions:
 
 Please download the zip file for the prototype through the itch.io website, where the game is published.
 Link:
