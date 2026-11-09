@@ -1,7 +1,7 @@
-## ​Project Name: Kiki's Routine
+# Kiki's Routine - Interactive puzzle game and story
 Final prototype of Kiki's Routine, a short interactive puzzle game with horror themes and a storyline, made on ren'py.
 
-# Installation Instructions:
+## Installation Instructions:
 
 Please download the zip file for the prototype through the itch.io website, where the game is published.
 Link:
@@ -20,3 +20,11 @@ it should be located under 'log' after the extraction files reveals.
 4. This will take you directly to the game start screen.
 click "start" on the left side to begin the game.
 
+## technologies:
+Engine: Ren'py 8.5.3
+Script: Visual Studio code
+basic Language guide: https://www.renpy.org/doc/html/language_basics.html
+
+## sources
+This game is inspired by Lomando.com 
+https://www.lomando.com/englishtop.html
