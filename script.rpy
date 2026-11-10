@@ -6,6 +6,8 @@ define Kiki = Character("Kiki", color="#22a7b6")
 define Angel = Character("Angel", color="#f10f0f")
 
 # IMAGE DEFINITIONS
+#graveyard hunt - for the image button/hover: Zeil Learnings
+#https://youtu.be/4O3uqLpvnKE?si=BHdBQZsErLau1yR-
 
 image bg bedroom_night = "bg bedroom_night.jpg"
 image bg streetevening = "bg streetevening.jpg"
@@ -125,7 +127,8 @@ screen red_window_scene():
 
 
 # VARIABLES
-
+# coded guide by Coding with B and E
+#https://www.youtube.com/watch?v=vewLItOBDVg
 
 default found_angel = False
 default found_dove = False
@@ -137,7 +140,8 @@ default purple_hover = False
 
 
 # FLASHLIGHT SYSTEM
-
+#Flashlight effect - by @apricottorange (user)
+#https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=20872&hilit=flashlight
 
 init python:
 
@@ -286,7 +290,10 @@ label choice3:
 
 
 # HIDDEN OBJECT SCREEN
-
+# coded guide by Coding with B and E
+https://www.youtube.com/watch?v=vewLItOBDVg
+# guide for image button/hover: Zeil Learnings
+https://youtu.be/4O3uqLpvnKE?si=BHdBQZsErLau1yR-
 
 screen graveyard_hunt():
 
@@ -460,7 +467,10 @@ label investigate_windows:
 
     "The correct window will glow red."
 
-    $ result = renpy.call_screen("red_window_scene")
+    $ result = renpy.call_screen("red_window_scene") 
+
+# coded guide by Coding with B and E
+# https://www.youtube.com/watch?v=vewLItOBDVg
 
     if result:
 
